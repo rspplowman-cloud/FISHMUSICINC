@@ -93,17 +93,22 @@
 >
 > ---
 >
-> ## Part of the NOIZY Empire
->
-> | Brand | Domain | Purpose |
-> |---|---|---|
-> | **NOIZY.AI** | [noizy.ai](https://noizy.ai) | Intelligence Layer & A.I.V.A. |
-> | **NOIZYFISH** | [noizyfish.com](https://noizyfish.com) | Living Legacy Vault |
-> | **NOIZYVOX** | [noizyvox.com](https://noizyvox.com) | Sovereign Voice Consent Platform |
-> | **NOIZYKIDZ** | [noizykidz.com](https://noizykidz.com) | Haptic Music Education |
-> | **NOIZYLAB** | [noizylab.ca](https://noizylab.ca) | R&D and Innovation Hub |
-> | **FISHMUSICINC** | [fishmusicinc.com](https://fishmusicinc.com) | Music Catalog & Licensing ← **you are here** |
->
-> ---
->
-> **GORUNFREE. Built by RSP_001. The fish was here first. Protected by HEAVEN.**
+> ## 
+---
+
+## The NOIZY Empire -- 10 Brands. One Doctrine. Zero Compromises.
+
+| Brand | Domain | Purpose |
+|---|---|---|
+| NOIZY.AI | noizy.ai | Intelligence Layer + A.I.V.A. |
+| NOIZYFISH | noizyfish.com | Living Legacy Vault |
+| NOIZYKIDZ | noizykidz.com | Haptic Music Education |
+| NOIZYVOX | noizyvox.com | Sovereign Voice Consent Platform |
+| NOIZYLAB | noizylab.ca | R&D and Innovation Hub |
+| FISHMUSICINC | fishmusicinc.com | Music Catalog + Licensing -- you are here |
+| DREAMCHAMBER | dream.noizy.ai | 500-Year Creative Sanctuary |
+| THE-OLD-GUARD | theoldguard.noizy.ai | ResurrectionOS + Charitable Deployment |
+| NOIZYWORLD | noizyworld.com | 10-Year Sovereign Commerce System |
+| 2NDACT | 2ndact.noizy.ai | Universal Bridge App |
+
+**GORUNFREE. Built by RSP_001. The fish was here first. Protected by HEAVEN.**
