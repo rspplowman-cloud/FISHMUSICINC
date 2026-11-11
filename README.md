@@ -91,6 +91,8 @@ All licenses are: issued via HEAVEN API · tracked on immutable ledger · revoca
 
 📧 [rsp@fishmusicinc.com](mailto:rsp@fishmusicinc.com) → routes to [rsp@noizy.ai](mailto:rsp@noizy.ai)
 
+💬 [THE GATHERING OF NOIZYFISH](https://whatsapp.com/channel/0029VbC8Ujq96H4OSUbWQA0G) — WhatsApp channel
+
 ---
 
 ## Part of NOIZYWORLD
@@ -107,5 +109,7 @@ All licenses are: issued via HEAVEN API · tracked on immutable ledger · revoca
 | [THE-GATHERING](https://github.com/RSPNOIZY/THE-GATHERING) | Community gathering point |
 | [NOIZYANTHROPIC](https://github.com/RSPNOIZY/NOIZYANTHROPIC) | AI governance + doctrine |
 | [THE-AQUARIUM](https://github.com/RSPNOIZY/THE-AQUARIUM) | Audio vault -- CLIENT#1 RSP001 |
+
+**Community:** [THE GATHERING OF NOIZYFISH](https://whatsapp.com/channel/0029VbC8Ujq96H4OSUbWQA0G) — the WhatsApp channel. Follow for news from every brand.
 
 **killSwitchHolder:** RSP_001 | **covenant:** 75/25 | **canon:** noizy.ai
